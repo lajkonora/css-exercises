@@ -57,6 +57,10 @@ body {
   justify-content: center;
 }
 
+.text {
+  padding: 10px 0;
+}
+
 button {
   padding: 8px 16px;
   border-radius: 8px;
@@ -76,5 +80,5 @@ button.cancel {
 
 .header {
   font-weight: 600;
-  font-size: 24px;
+  font-size: 22px;
 }
