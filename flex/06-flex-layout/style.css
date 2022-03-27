@@ -17,13 +17,12 @@ body {
 
 .left-links {
   display: flex;
-  justify-content: flex-start;
   gap: 10px;
+  margin-left: -30px;
 }
 
 .right-links {
   display: flex;
-  justify-content: flex-end;
   gap: 10px;
 }
 
@@ -67,5 +66,8 @@ input {
 
 .footer {
   background-color: #eeeeee;
+  display: flex;
+  justify-content: space-between;
   margin-top: auto;
+  padding: 10px;
 }
