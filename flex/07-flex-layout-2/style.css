@@ -5,9 +5,12 @@ body {
 }
 
 .header {
-  height: 72px;
+  height: auto;
   background: darkmagenta;
   color: white;
+  font-size: 32px;
+  font-weight: 900;
+  padding: 16px;
 }
 
 .flex-container {
