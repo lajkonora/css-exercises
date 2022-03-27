@@ -7,6 +7,23 @@ body {
   font-family: Roboto, sans-serif;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-links {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+}
+
+.right-links {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
 ul {
   list-style-type: none;
 }
