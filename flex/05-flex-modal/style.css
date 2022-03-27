@@ -36,8 +36,10 @@ body {
   height: 42px;
   border-radius: 50%;
   display: flex;
+  flex: 1 0 auto;
   align-items: center;
   justify-content: center;
+  margin: 10px;
 }
 
 .close-button {
