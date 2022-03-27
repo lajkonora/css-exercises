@@ -10,6 +10,10 @@ body {
   color: white;
 }
 
+.flex-container {
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
